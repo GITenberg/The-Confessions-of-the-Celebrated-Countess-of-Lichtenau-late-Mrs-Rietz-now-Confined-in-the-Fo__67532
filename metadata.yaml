@@ -1,0 +1,38 @@
+_repo: The-Confessions-of-the-Celebrated-Countess-of-Lichtenau-late-Mrs-Rietz-now-Confined-in-the-Fo__67532
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lichtenau, Wilhelmine Enke, Gräfin Lichtenau
+    aliases:
+    - Rietz, Wilhelmine, Gräfin Lichtenau
+    - Enke, Wilhelmine
+    - Lichtenau, Wilhelmine Enke, Grafin Lichtenau
+    - Lichtenau, Countess
+    birthdate: 1752
+    deathdate: 1820
+    gutenberg_agent_id: '54269'
+    url: http://www.gutenberg.org/2009/agents/54269
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Wilhelmine_von_Lichtenau
+    - https://en.wikipedia.org/wiki/Wilhelmine,_Gr%C3%A4fin_von_Lichtenau
+description: ''
+gutenberg_issued: '2022-03-01'
+identifiers:
+  gutenberg: '67532'
+language: en
+pgterms:marc904: https://archive.org/details/confessionsofcel00lich/page/n3/mode/2up
+pgterms:marc905: 20201125172230lichtenau
+pgterms:marc906: '1799'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United Kingdom :J. W. Myers,1799.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Confessions of the Celebrated Countess of Lichtenau, late Mrs. Rietz, now
+  Confined in the Fortress of Gloglau as a State-prisoner
+url: http://www.gutenberg.org/ebooks/67532
