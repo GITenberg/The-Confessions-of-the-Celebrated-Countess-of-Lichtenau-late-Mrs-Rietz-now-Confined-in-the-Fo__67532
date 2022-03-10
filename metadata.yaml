@@ -1,5 +1,8 @@
 _repo: The-Confessions-of-the-Celebrated-Countess-of-Lichtenau-late-Mrs-Rietz-now-Confined-in-the-Fo__67532
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67532-h/images/cover.jpg
 creator:
   author:
     agent_name: Lichtenau, Wilhelmine Enke, Gräfin Lichtenau
@@ -16,6 +19,8 @@ creator:
     - https://de.wikipedia.org/wiki/Wilhelmine_von_Lichtenau
     - https://en.wikipedia.org/wiki/Wilhelmine,_Gr%C3%A4fin_von_Lichtenau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67532#The-Confessions-of-the-Celebrated-Countess-of-Lichtenau-late-Mrs-Rietz-now-Confined-in-the-Fo_
 gutenberg_issued: '2022-03-01'
 identifiers:
   gutenberg: '67532'
